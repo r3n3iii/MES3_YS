@@ -7,7 +7,7 @@
         <srcFile name="package/cfg/release_pem4f.c"/>
     </sources>
     <configscripts>
-        <srcFile name="C:/Users/Rene/workspace_v9/PINV15-190/tirtosCfg_common_MSP_EXP432P401R/release.cfg"/>
+        <srcFile name="E:/Documents/Courses/MakingEmbeddedSystems/git_homework/MES3_YS_Final_Project/tirtosCfg_common_MSP_EXP432P401R/release.cfg"/>
     </configscripts>
     <makefiles>
         <srcFile name="package.mak" src="package.bld"/>
@@ -44,7 +44,7 @@
         isPartial="false"
         xCfgScript="package/cfg/release_pem4f.cfg"
         xCfgPrefix="package/cfg/release_pem4f"
-        cfgScript="C:/Users/Rene/workspace_v9/PINV15-190/tirtosCfg_common_MSP_EXP432P401R/release.cfg"
+        cfgScript="E:/Documents/Courses/MakingEmbeddedSystems/git_homework/MES3_YS_Final_Project/tirtosCfg_common_MSP_EXP432P401R/release.cfg"
         cfgArgs="null"
         />
     </configurations>
@@ -56,7 +56,7 @@
         profile="release"
         xCfgScript="package/cfg/release_pem4f.cfg"
         xCfgPrefix="package/cfg/release_pem4f"
-        cfgScript="C:/Users/Rene/workspace_v9/PINV15-190/tirtosCfg_common_MSP_EXP432P401R/release.cfg"
+        cfgScript="E:/Documents/Courses/MakingEmbeddedSystems/git_homework/MES3_YS_Final_Project/tirtosCfg_common_MSP_EXP432P401R/release.cfg"
         cfgArgs="null"
         />
     </executables>
